@@ -1,9 +1,9 @@
 ### Hi earthling 👋
 I am a Machine Engineer
-<p style="text-align: right; font-size: x-large">
+<div style="text-align: right; font-size: x-large">
 "Surpass your limits. Right here, right now" 
-</p>
-<p style="text-align: right;">- Yami (Black Clover)</p>
+</div>
+<div style="text-align: right;">- Yami (Black Clover)</div>
 
 - 🔭 seeking to build reinforcement learning algorithms for real-world applications
 - 🌱 I’m currently learning Reinforcement Learning
