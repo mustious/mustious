@@ -11,6 +11,6 @@ I am a Machine Learning engineer
 + Website: [mustious.github.io](https://mustious.github.io/)
 + blog: [Random 0bsessions](https://mustious.github.io/blog/)
 + Email: mustious@gmail.com, mustaphaabdullahi7@yahoo.com
-+ LinkedIn: [Mustapha Abdullahi Jimoh](https://www.linkedin.com/in/mustious/)
++ LinkedIn: [Mustapha Abdullahi Jimoh](https://www.linkedin.com/in/mustaphaabdullahi/)
 + Twitter: [mustious7](https://twitter.com/mustious7)
 
